@@ -1,0 +1,13 @@
+td{
+    text-align: center;
+    padding: 5px;
+}
+th{
+    border-bottom: solid black 2px;
+    padding: 5px;
+    background: gray;
+}
+table{
+    border:solid black 2px;
+    padding: 5px;
+}
